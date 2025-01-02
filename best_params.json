@@ -1,8 +1,8 @@
 {
     "classifier": "XGBoost",
-    "xgb_colsample_bytree": 0.643875628818154,
-    "xgb_learning_rate": 0.06891238730780205,
-    "xgb_max_depth": 9,
-    "xgb_n_estimators": 702,
-    "xgb_subsample": 0.7014161983386077
+    "xgb_colsample_bytree": 0.7896000122582489,
+    "xgb_learning_rate": 0.027434724266888824,
+    "xgb_max_depth": 8,
+    "xgb_n_estimators": 211,
+    "xgb_subsample": 0.7188066640151899
 }
