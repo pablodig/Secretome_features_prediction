@@ -1,0 +1,8 @@
+{
+    "model": "XGBoost",
+    "xgb_colsample_bytree": 0.6737686224176505,
+    "xgb_learning_rate": 0.06847696959366888,
+    "xgb_max_depth": 8,
+    "xgb_n_estimators": 116,
+    "xgb_subsample": 0.5001324927032915
+}
